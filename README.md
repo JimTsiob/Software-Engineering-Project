@@ -1,5 +1,6 @@
 ## Contributors
 Panagiotis Kyrmpatsos (https://github.com/panoskyr)
+
 Nikos Christodoulou (https://github.com/SlienCode)
 
 # Εισαγωγή
